@@ -1,2 +1,2 @@
-# XRead
+# XBooks
 MY READING NOTES
